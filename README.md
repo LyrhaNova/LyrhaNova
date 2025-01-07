@@ -1,16 +1,12 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LyrhaNova/Portfolio/refs/heads/main/frontend/public/assets/logo_poupou_small.webp" alt="alt text" width="350" />
+</p>
 
-<!--
-**LyrhaNova/LyrhaNova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Bienvenue, voyageur d'un jour ! 👋 !WORK IN PROGRESS</h1>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LyrhaNova&theme=radical" alt="Anurag's GitHub stats" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrhaNova&layout=compact" alt="Top Langs" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
