@@ -15,6 +15,7 @@
     J'ai principalement travaillé avec <strong>React</strong>, <strong>Express</strong> et <strong>MongoDB</strong>, des technologies modernes et flexibles. Voici deux projets pour vous donner un aperçu de mon travail ⭐:
   </p>
   <ul>
+    <li><a href="https://github.com/LyrhaNova/Portfolio" target="_blank">Portfolio</a> : Mon projet le plus complet en full-stack ;</li>
     <li><a href="https://github.com/LyrhaNova/OCR-Project_6" target="_blank">Projet 6</a> : Développement du back-end d'un site de notation de livres ;</li>
     <li><a href="https://github.com/LyrhaNova/OCR-Project_5" target="blank"> Projet 5</a> : Implémentation du front-end avec React, React Router et animations en SASS.</li>
   </ul>
